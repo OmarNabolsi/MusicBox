@@ -1,0 +1,14 @@
+C:\Users\on09\Documents\Projects\MusicBox\MusicBox.API\obj\Debug\netcoreapp2.2\MusicBox.API.csprojAssemblyReference.cache
+C:\Users\on09\Documents\Projects\MusicBox\MusicBox.API\obj\Debug\netcoreapp2.2\MusicBox.API.csproj.CoreCompileInputs.cache
+C:\Users\on09\Documents\Projects\MusicBox\MusicBox.API\obj\Debug\netcoreapp2.2\MusicBox.API.AssemblyInfoInputs.cache
+C:\Users\on09\Documents\Projects\MusicBox\MusicBox.API\obj\Debug\netcoreapp2.2\MusicBox.API.AssemblyInfo.cs
+C:\Users\on09\Documents\Projects\MusicBox\MusicBox.API\bin\Debug\netcoreapp2.2\MusicBox.API.deps.json
+C:\Users\on09\Documents\Projects\MusicBox\MusicBox.API\bin\Debug\netcoreapp2.2\MusicBox.API.runtimeconfig.json
+C:\Users\on09\Documents\Projects\MusicBox\MusicBox.API\bin\Debug\netcoreapp2.2\MusicBox.API.runtimeconfig.dev.json
+C:\Users\on09\Documents\Projects\MusicBox\MusicBox.API\bin\Debug\netcoreapp2.2\MusicBox.API.dll
+C:\Users\on09\Documents\Projects\MusicBox\MusicBox.API\bin\Debug\netcoreapp2.2\MusicBox.API.pdb
+C:\Users\on09\Documents\Projects\MusicBox\MusicBox.API\obj\Debug\netcoreapp2.2\MusicBox.API.dll
+C:\Users\on09\Documents\Projects\MusicBox\MusicBox.API\obj\Debug\netcoreapp2.2\MusicBox.API.pdb
+C:\Users\on09\Documents\Projects\MusicBox\MusicBox.API\obj\Debug\netcoreapp2.2\MusicBox.API.RazorAssemblyInfo.cache
+C:\Users\on09\Documents\Projects\MusicBox\MusicBox.API\obj\Debug\netcoreapp2.2\MusicBox.API.RazorAssemblyInfo.cs
+C:\Users\on09\Documents\Projects\MusicBox\MusicBox.API\obj\Debug\netcoreapp2.2\MusicBox.API.RazorTargetAssemblyInfo.cache
